@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.redisson:redisson:unknown">
+    <CLASSES>
+      <root url="jar://D:/develop/maven_repository/org/redisson/redisson/unknown/redisson-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/develop/maven_repository/org/redisson/redisson/unknown/redisson-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/develop/maven_repository/org/redisson/redisson/unknown/redisson-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
